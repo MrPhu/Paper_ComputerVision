@@ -7,7 +7,8 @@
 2. [CBAM: Convolutional Block Attention Module](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)**_ECCV2018**
 
 ## Clustering
-1. 
+1. [Improving Unsupervised Image Clustering With Robust Learning](https://arxiv.org/abs/2012.11150)**_CVPR2021**
+
 
 # Paper to Read
 ### Object Detection 
@@ -102,6 +103,21 @@
 1. [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840)**_CVPR2021**
 2. [VisTR: End-to-End Video Instance Segmentation with Transformers](https://arxiv.org/abs/2011.14503)**_CVPR2021**
 
+#### Seg in Medical
+1. [DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets](https://arxiv.org/abs/2011.10217)**_CVPR2021**
+2. [FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space](https://arxiv.org/abs/2103.06030)**_CVPR2021**
+
+
+### Tracking
+1. [Rotation Equivariant Siamese Networks for Tracking](https://arxiv.org/abs/2012.13078)**_CVPR2021**
+2. [Graph Attention Tracking](https://arxiv.org/abs/2011.11204)**_CVPR2021**
+
+#### Multi-target tracking
+1. [Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking](https://arxiv.org/abs/2012.02337)**_CVPR2021**
+2. [Track to Detect and Segment: An Online Multi-Object Tracker](https://arxiv.org/abs/2103.08808)**_CVPR2021**
+3. [Multiple Object Tracking with Correlation Learning]()**_CVPR2021**
+4. [Learning a Proposal Classifier for Multiple Object Tracking](https://arxiv.org/abs/2103.07889)**_CVPR2021**
+
 
 ### Data augmentation
 1. [KeepAugment: A Simple Information-Preserving Data Augmentation](https://arxiv.org/pdf/2011.11778.pdf)**_CVPR2021**
@@ -125,10 +141,14 @@
 15. [HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms](https://arxiv.org/abs/2011.11731)**_CVPR2021**
 16. [DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network](https://arxiv.org/abs/2103.07893)**_CVPR2021**
 
+
 # Good Respitories
 ## Paper Summary
 1. CVPR2021: https://github.com/52CV/CVPR-2021-Papers
+
+
 ## Github
+
 
 # Others
 1. Github Page Markdown: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
