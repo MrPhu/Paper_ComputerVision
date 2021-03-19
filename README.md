@@ -11,6 +11,14 @@
 
 
 # Paper to Read
+### Classification / Backbone enhancement
+1. [ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network](https://arxiv.org/abs/2007.00992)[_Code_](https://github.com/clovaai/rexnet)**_CVPR2021**
+2. [Involution: Inverting the Inherence of Convolution for Visual Recognition](https://github.com/d-li14/involution)[_Code_](https://arxiv.org/abs/2103.06255)**_CVPR2021**
+3. [Coordinate Attention for Efficient Mobile Network Design](https://arxiv.org/abs/2103.02907)[_Code_](https://github.com/Andrew-Qibin/CoordAttention)**_CVPR2021**
+4. [Inception Convolution with Efficient Dilation Search](https://arxiv.org/abs/2012.13587)[_Code_](https://github.com/yifan123/IC-Conv)**_CVPR2021**
+5. [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)[_Code_](https://github.com/DingXiaoH/RepVGG)**_CVPR2021**
+
+
 ### Object Detection 
 #### Normal Object Detection on COCO
 1. [You Only Look One-level Feature](https://arxiv.org/pdf/2103.09460.pdf)**_CVPR2021**
@@ -46,10 +54,6 @@
 
 #### Dense object detection
 1. [Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection]()**_CVPR2021**
-
-#### Det with Transformer
-1. [UP-DETR: Unsupervised Pre-training for Object Detection with Transformers](https://arxiv.org/pdf/2011.09094.pdf)**_CVPR2021**
-2. [Transformer Interpretability Beyond Attention Visualization](https://arxiv.org/pdf/2012.09838.pdf)**_CVPR2021**
 
 ### Segmentation
 1. [Information-Theoretic Segmentation by Inpainting Error Maximization](https://arxiv.org/abs/2012.07287)**_CVPR2021**
@@ -99,13 +103,19 @@
 #### Video object segmentation
 1. [Modular Interactive Video Object Segmentation:Interaction-to-Mask, Propagation and Difference-Aware Fusion]()**_CVPR2021**
 
-#### Seg with Transformer
-1. [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840)**_CVPR2021**
-2. [VisTR: End-to-End Video Instance Segmentation with Transformers](https://arxiv.org/abs/2011.14503)**_CVPR2021**
-
 #### Seg in Medical
 1. [DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets](https://arxiv.org/abs/2011.10217)**_CVPR2021**
 2. [FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space](https://arxiv.org/abs/2103.06030)**_CVPR2021**
+3. [Deep Learning for Chest X-ray Analysis: A Survey](https://arxiv.org/pdf/2103.08700.pdf)**_CVPR2021**
+
+
+### Transformer in Visual
+1. [UP-DETR: Unsupervised Pre-training for Object Detection with Transformers](https://arxiv.org/pdf/2011.09094.pdf)[_Code_](https://github.com/dddzg/up-detr)**_CVPR2021**
+2. [Transformer Interpretability Beyond Attention Visualization](https://arxiv.org/pdf/2012.09838.pdf)[_Code_](https://github.com/hila-chefer/Transformer-Explainability)**_CVPR2021**
+3. [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840)**_CVPR2021**
+4. [VisTR: End-to-End Video Instance Segmentation with Transformers](https://arxiv.org/abs/2011.14503)[_Code_](https://github.com/Epiphqny/VisTR)**_CVPR2021**
+5. [End-to-End Human Object Interaction Detection with HOI Transformers](https://arxiv.org/abs/2103.04503)[_Code_](https://github.com/bbepoch/HoiTransformer)**_CVPR2021**
+
 
 
 ### Tracking
@@ -119,6 +129,10 @@
 4. [Learning a Proposal Classifier for Multiple Object Tracking](https://arxiv.org/abs/2103.07889)**_CVPR2021**
 
 
+### Anomaly Detection
+1. [Multiresolution Knowledge Distillation for Anomaly Detection](https://arxiv.org/abs/2011.11108)**_CVPR2021**
+
+
 ### Data augmentation
 1. [KeepAugment: A Simple Information-Preserving Data Augmentation](https://arxiv.org/pdf/2011.11778.pdf)**_CVPR2021**
 
@@ -127,9 +141,9 @@
 1. [Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editin](https://arxiv.org/abs/2008.00951)**_CVPR2021**
 2. [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation]()**_CVPR2021**
 3. [Hijack-GAN: Unintended-Use of Pretrained, Black-Box GANs](https://arxiv.org/pdf/2011.14107.pdf)**_CVPR2021**
-4. [Image-to-image Translation via Hierarchical Style Disentanglement](https://arxiv.org/abs/2103.01456)**_CVPR2021**
+4. [Image-to-image Translation via Hierarchical Style Disentanglement](https://arxiv.org/abs/2103.01456)[_Code_](https://github.com/imlixinyang/HiSD)**_CVPR2021**
 5. [Efficient Conditional GAN Transfer with Knowledge Propagation across Classes](https://arxiv.org/abs/2102.06696)**_CVPR2021**
-6. [Anycost GANs for Interactive Image Synthesis and Editing](https://arxiv.org/abs/2103.03243)**_CVPR2021**
+6. [Anycost GANs for Interactive Image Synthesis and Editing](https://arxiv.org/abs/2103.03243)[_Code_](https://github.com/mit-han-lab/anycost-gan)**_CVPR2021**
 7. [TediGAN: Text-Guided Diverse Image Generation and Manipulation](https://arxiv.org/abs/2012.03308)**_CVPR2021**
 8. [Generative Hierarchical Features from Synthesizing Images](https://arxiv.org/abs/2007.10379)**_CVPR2021**
 9. [Teachers Do More Than Teach: Compressing Image-to-Image Models](https://arxiv.org/abs/2103.03467)**_CVPR2021**
@@ -140,11 +154,13 @@
 14. [HumanGAN: A Generative Model of Humans Images](https://arxiv.org/abs/2103.06902)**_CVPR2021**
 15. [HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms](https://arxiv.org/abs/2011.11731)**_CVPR2021**
 16. [DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network](https://arxiv.org/abs/2103.07893)**_CVPR2021**
+17. [Training Generative Adversarial Networks in One Stage](https://arxiv.org/abs/2103.00430)**_CVPR2021**
+18. [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/abs/2007.06600)[_Code_](https://github.com/genforce/sefa)**_CVPR2021**
 
 
 # Good Respitories
 ## Paper Summary
-1. CVPR2021: https://github.com/52CV/CVPR-2021-Papers
+1. Sorting CVPR2021 Papers: https://github.com/52CV/CVPR-2021-Papers
 
 
 ## Github
