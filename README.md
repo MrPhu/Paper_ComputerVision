@@ -32,7 +32,7 @@
 9. [Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection]()**_CVPR2021**
 10. [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals](https://arxiv.org/abs/2011.12450)**_CVPR2021**
 11. [OPANAS: One-Shot Path Aggregation Network Architecture Search for Object Detection](https://arxiv.org/abs/2103.04507)[ [_Code_]](https://github.com/VDIGPKU/OPANAS)**_CVPR2021**
-12. 
+
 
 #### Small Object Detection
 1. [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)**_CVPR2021**
