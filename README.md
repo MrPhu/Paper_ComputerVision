@@ -166,12 +166,12 @@
 
 # Good Respitories
 ## Paper Summary
-1. Sorting CVPR2021 Papers: https://github.com/52CV/CVPR-2021-Papers
-2. CVPR2021 Paper_with_code: https://github.com/amusi/CVPR2021-Papers-with-Code
+1. Sorting CVPR2021 Papers: [https://github.com/52CV/CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers)
+2. CVPR2021 Paper_with_code: [https://github.com/amusi/CVPR2021-Papers-with-Code](https://github.com/amusi/CVPR2021-Papers-with-Code)
 
 ## Github
 
 
 # Others
 1. Github Page Markdown: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-[]()[ [_Code_]]()**_CVPR2021**
+
