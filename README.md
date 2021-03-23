@@ -1,4 +1,4 @@
-# Paper Notes
+# MrPhu's Personal Paper Notes
 ## Object Detection
 1. [Scaled-YOLOv4: Scaling Cross Stage Partial Network](https://arxiv.org/abs/2011.08036).
 
