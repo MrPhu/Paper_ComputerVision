@@ -3,7 +3,7 @@
 2. CVPR2021 Collection: [https://mrphu.github.io/CVPR2021_Papers/](https://mrphu.github.io/CVPR2021_Papers/)
 --------------------------------------------------------------------------------------------------------------
 
-# MrPhu's Personal Paper Notes
+# Personal Paper Notes
 ## Object Detection
 1. [Scaled-YOLOv4: Scaling Cross Stage Partial Network](https://arxiv.org/abs/2011.08036).
 
